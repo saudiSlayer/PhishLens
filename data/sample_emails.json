@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "EMAIL-001",
+    "sender": "notifications@secure-example.com",
+    "reply_to": "notifications@secure-example.com",
+    "subject": "Your monthly account statement",
+    "body": "Your monthly statement is now available. Please sign in through the official application to review it.",
+    "received_at": "2026-10-02 08:30:00"
+  },
+  {
+    "id": "EMAIL-002",
+    "sender": "security@account-verify.example",
+    "reply_to": "support@unrelated-example.net",
+    "subject": "URGENT: Your account will be suspended",
+    "body": "Your account will be suspended today. Verify your password immediately at http://account-verify.example/login to avoid losing access.",
+    "received_at": "2026-10-02 09:15:00"
+  },
+  {
+    "id": "EMAIL-003",
+    "sender": "it-support@example.org",
+    "reply_to": "external-mail@example.net",
+    "subject": "Password expires today",
+    "body": "Your password expires today. Confirm your credentials immediately using https://login.example.net/verify. Failure to act may result in account suspension.",
+    "received_at": "2026-10-02 10:05:00"
+  }
+]
